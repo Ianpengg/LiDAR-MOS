@@ -10,7 +10,6 @@ __pycache__
 ### C++ ###
 # Prerequisites
 *.d
-
 # Compiled Object files
 *.slo
 *.lo
@@ -139,3 +138,4 @@ local.properties
 
 
 bin
+data/
